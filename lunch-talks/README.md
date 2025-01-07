@@ -35,5 +35,6 @@ architecture-beta
     smartphone:B -- T:server
 ```
 
+#### Vocabulaire à couvrir
 
-- Description des tests de le leur cible sur cette app
+Mock, tests unitaires, tests d'intégration, integration continue, 
