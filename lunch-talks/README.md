@@ -21,16 +21,18 @@ _A ajouter par date décroissante, aka les plus récent en haut._
 
 ```mermaid
 architecture-beta
-    group api[Application web]
-    group infra[Infrastructure]
+    group api[FRONTEND Application web ou mobile]
+    group infra[BACKEND Infrastructure cloud ou on prem]
 
 
     service db(database)[Base de donnee ex PostGreSQL] in infra
     service server(server)[Serveur ex NodeJs] in infra
     service browser(internet)[Navigateur ex ReactJs] in api
+    service smartphone(internet)[App mobile ex Android] in api
 
     server:B -- T:db
     browser:B -- T:server
+    smartphone:B -- T:server
 ```
 
 
