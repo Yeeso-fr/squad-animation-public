@@ -17,24 +17,14 @@ _A ajouter par date décroissante, aka les plus récent en haut._
 
 ### 06-01-2025 Les test, des tests unitaires aux test d'intégration
 
-- Architecture d'une application web classique
+#### Vocabulaire lié
 
-```mermaid
-architecture-beta
-    group api[FRONTEND Application web ou mobile]
-    group infra[BACKEND Infrastructure cloud ou on prem]
+Mock, tests unitaires, tests d'intégration, integration continue, TDD
 
+#### Les questions des présentes
 
-    service db(database)[Base de donnee ex PostGreSQL] in infra
-    service server(server)[Serveur ex NodeJs] in infra
-    service browser(internet)[Navigateur ex ReactJs] in api
-    service smartphone(internet)[App mobile ex Android] in api
-
-    server:B -- T:db
-    browser:B -- T:server
-    smartphone:B -- T:server
-```
-
-#### Vocabulaire à couvrir
-
-Mock, tests unitaires, tests d'intégration, integration continue, 
+- Comment vendre le temps de test aux managers et PO ?
+- Comment savoir les habitudes de test des personnes lors d'entretiens pour un nouveau job
+- comment démarrer le TDD ?
+- quels tests vous écrivez en premier, unitaires ou intégration ou end to end ?
+- comment motiver les autres de dév de façon ludique
