@@ -15,6 +15,14 @@ Ce document peut permettre aux animatrices de préparer des notes, ou de partage
 
 _A ajouter par date décroissante, aka les plus récent en haut._
 
+### 05-05-2025 Slack, et le slack Yeeso
+- Presentation du fonctionnement yeeso (squad) et de son reflet dans slack
+- Beta tester discord pour un remplacement à long terme de Slack
+- Il faudra un channel pour les annonces et un pour les discussions
+- Action A.:  lister les channels public et leur scope et épingler dans général
+- Envisager d'avoir automatiquement les post yeeso dans slack
+- Mettre à jour les channel pour les nouvelles personnes
+
 ### 06-01-2025 Les test, des tests unitaires aux test d'intégration
 
 #### Vocabulaire lié
