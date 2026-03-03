@@ -15,6 +15,25 @@ Ce document peut permettre aux animatrices de préparer des notes, ou de partage
 
 _A ajouter par date décroissante, aka les plus récent en haut._
 
+### 03-03-2026 Open Source
+
+Les liens discutés:
+- https://github.com/firstcontributions/first-contributions
+
+Alternative à github
+- https://codeberg.org/
+- https://bitbucket.org/Grantlab/bio3d/src/master/
+
+Evènemenst OSS:
+- https://fosdem.org/2026/
+- https://alposs.fr/
+
+Contribution des femmes et impact (ou alors cacher son genre)
+- https://peerj.com/articles/cs-111/
+
+Data for good tout est en OpenSource
+- https://github.com/dataforgoodfr
+
 ### 05-05-2025 Slack, et le slack Yeeso
 - Presentation du fonctionnement yeeso (squad) et de son reflet dans slack
 - Beta tester discord pour un remplacement à long terme de Slack
@@ -36,3 +55,4 @@ Mock, tests unitaires, tests d'intégration, integration continue, TDD
 - comment démarrer le TDD ?
 - quels tests vous écrivez en premier, unitaires ou intégration ou end to end ?
 - comment motiver les autres de dév de façon ludique
+
